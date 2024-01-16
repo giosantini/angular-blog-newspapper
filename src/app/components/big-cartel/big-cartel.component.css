@@ -15,14 +15,15 @@
 
 
 .picture > img {
-    height: 300px;
-    width: 496px;
+    
+    width: 100%;
 }
 
-.titulo__noticia > h1{
+.titulo__noticia > h1 > a{
+    color: black;
     margin-top: 10px;
 }
 
 .big-cartel__materia > p{
-    margin-top: 10px;
+    margin-top: 20px;
 }
