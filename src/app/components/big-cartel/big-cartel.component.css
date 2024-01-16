@@ -1,0 +1,28 @@
+
+.container__big-cartel {
+    position: absolute;
+    top: 69%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 600px; 
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    justify-content: flex-start; 
+}
+
+
+.picture > img {
+    height: 300px;
+    width: 496px;
+}
+
+.titulo__noticia > h1{
+    margin-top: 10px;
+}
+
+.big-cartel__materia > p{
+    margin-top: 10px;
+}

@@ -7,6 +7,7 @@ import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { MenuTitleComponent } from './components/menu-title/menu-title.component';
 import { BigCartelComponent } from './components/big-cartel/big-cartel.component';
 import { SubCartelComponent } from './components/sub-cartel/sub-cartel.component';
+import { HomeComponent } from './pages/home/home.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { SubCartelComponent } from './components/sub-cartel/sub-cartel.component
     MenuTitleComponent,
     BigCartelComponent,
     SubCartelComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
