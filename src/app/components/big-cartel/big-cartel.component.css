@@ -1,7 +1,7 @@
 
 .container__big-cartel {
-    position: absolute;
-    top: 69%;
+    position: fixed;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 500px;
