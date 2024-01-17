@@ -2,7 +2,7 @@
 .container__big-cartel {
     width: 500px;
     height: 600px; 
-    margin-left: 40px;
+    margin-left: 80px;
     
     display: flex;
     flex-direction: column;
