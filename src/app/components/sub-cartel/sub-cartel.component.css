@@ -15,3 +15,7 @@
 .materia > p{
     margin-top: 15px;
 }
+
+.tema > a{
+    color:black;
+}

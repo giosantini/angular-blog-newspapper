@@ -8,6 +8,7 @@ import { MenuTitleComponent } from './components/menu-title/menu-title.component
 import { BigCartelComponent } from './components/big-cartel/big-cartel.component';
 import { SubCartelComponent } from './components/sub-cartel/sub-cartel.component';
 import { HomeComponent } from './pages/home/home.component';
+import { ContentComponent } from './pages/content/content.component';
 
 
 @NgModule({
@@ -18,6 +19,7 @@ import { HomeComponent } from './pages/home/home.component';
     BigCartelComponent,
     SubCartelComponent,
     HomeComponent,
+    ContentComponent,
   ],
   imports: [
     BrowserModule,
